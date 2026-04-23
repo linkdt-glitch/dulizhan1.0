@@ -1,0 +1,16 @@
+{
+  "name": "mixerattach-store",
+  "version": "1.0.0",
+  "description": "MixerAttach - KitchenAid配件商城",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
